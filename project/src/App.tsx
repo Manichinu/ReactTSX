@@ -19,7 +19,7 @@ function App() {
           Learn React          
         </a>
       </header>
-      <h1>Welcome to</h1>
+      <h1>Welcome to GitHub</h1>
     </div>
   );
 }
